@@ -2,7 +2,7 @@
 
 An interactive, single-file HTML dashboard built for executive-level reporting on US retail transactions (2018–2021). Open `index.html` in any modern browser. No build step or server is required.
 
-**Live demo:** `https://harsh088c-debug.github.io/retail-profitability-dashboard/`
+**Live demo:** `https://harsh088c-debug.github.io/retail-profitability-dashboard/](https://harsh088c-debug.github.io/retail-profitability-dashboard/superstore_dashboard.html`
 
 ## Features
 
