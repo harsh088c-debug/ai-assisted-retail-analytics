@@ -2,7 +2,7 @@
 
 An interactive, single-file HTML dashboard built for executive-level reporting on US retail transactions (2018–2021). Open `index.html` in any modern browser. No build step or server is required.
 
-**Live demo:** `https://<your-username>.github.io/superstore-dashboard/`
+**Live demo:** `https://harsh088c-debug.github.io/retail-profitability-dashboard/`
 
 ## Features
 
@@ -37,10 +37,8 @@ Source: `SuperStore_Data.xlsx` (sheet `Orders`), 9,994 line items across 5,009 u
 - **"Orders" vs line items:** the file has 9,994 rows, but only 5,009 unique order IDs. The Total Orders card shows unique orders; the line-item count appears on hover.
 
 ## Deploy with GitHub Pages
-
-1. Rename the dashboard file to `index.html` and push it to the repo root.
-2. Go to **Settings → Pages**, choose **Branch: main / root**, then Save.
-3. The site goes live within a few minutes.
+1. Go to **Settings → Pages**, choose **Branch: main / root**, then Save.
+2. The site goes live within a few minutes.
 
 ## Note
 
